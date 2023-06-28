@@ -1,0 +1,9 @@
+insert into student(id,firstname,lastname,email_address) values (1,'Gaurav','Sharma','gauravrsharmamca@yahoo.com');
+insert into student(id,firstname,lastname,email_address) values (2,'Saurav','Sharma','gauravrsharmamca@yahoo.com');
+insert into student(id,firstname,lastname,email_address) values (3,'Aarav','Sharma','gauravrsharmamca@yahoo.com');
+insert into student(id,firstname,lastname,email_address) values (4,'Prabhanjan','Sharma','gauravrsharmamca@yahoo.com');
+insert into student(id,firstname,lastname,email_address) values (5,'Gauri','Sharma','gauravrsharmamca@yahoo.com');
+insert into student(id,firstname,lastname,email_address) values (6,'Gautam','Sharma','gauravrsharmamca@yahoo.com');
+insert into student(id,firstname,lastname,email_address) values (7,'Lali','Sharma','gauravrsharmamca@yahoo.com');
+insert into student(id,firstname,lastname,email_address) values (8,'Shakti','Sharma','gauravrsharmamca@yahoo.com');
+insert into student(id,firstname,lastname,email_address) values (9,'Bhawani','Sharma','gauravrsharmamca@yahoo.com');
